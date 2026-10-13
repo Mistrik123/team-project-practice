@@ -1,2 +1,1 @@
-# team-project-practice
-Стало: # Team Project (версия В)
+# docs: change title to version V
